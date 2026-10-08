@@ -1,0 +1,38 @@
+body{
+    background-color: brown;
+}
+
+#title{
+    font-size: 100px;
+    font-family: "Josefin Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 350;
+    font-style: normal;
+}
+
+#titlecontainer{
+    background-color:  rgb(114, 2, 2);
+    color: antiquewhite;
+}
+
+#maincontent{
+    background-color: bisque;
+    text-indent: 30px;
+}
+
+#maincontent_text1{
+    font-size: 25px;
+    font-family: "Cormorant Garamond", serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+}
+
+.col-md-12, #actuator{
+    text-align: left;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+}
+
+label, #result{
+    font-family: 'Courier New', Courier, monospace;
+}
